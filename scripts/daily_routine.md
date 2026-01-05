@@ -31,3 +31,8 @@
   - 날짜 추가: (YYYY-MM-DD)
   - 번호 제거: 소재1: → 소재:
   - 대기 중 소재 번호를 1번부터 오름차순으로 재정렬
+
+## Step 5: 승인 및 아카이브
+글 승인이야. 아래 작업 진행해줘:
+- drafts/draft_YYYYMMDD.md를 approved_content/YYYYMMDD_[주제].md로 이동
+- reference_content/YYYYMMDD_[주제].md로 복사 (스타일 분석용)
