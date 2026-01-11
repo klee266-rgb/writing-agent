@@ -5,7 +5,10 @@
 1. topics.md에서 대기 중인 첫 번째 소재 보여줘
 2. 이 소재로 글을 쓰려면 어떤 내용을 담아야 할지 질문해줘
 
-## Step 2: 아웃라인 피드백
+## Step 2: 소재 아이디어 제안
+질문 답변을 활용해서, 글에 포함할 소재 아이디어를 제안해줘
+
+## Step 3: 아웃라인 피드백
 내 아웃라인이야:
 1.
 2.
@@ -13,7 +16,7 @@
 
 이 아웃라인에 대해 피드백해줘
 
-## Step 3: 초안 작성
+## Step 4: 초안 작성
 최종 아웃라인:
 1.
 2.
@@ -23,7 +26,7 @@
 - style_guide.md와 feedback_log.md 참고
 - 초안 내용 보여줘
 
-## Step 4: 작성 완료
+## Step 5: 작성 완료
 초안 확정이야. 아래 작업 진행해줘:
 - drafts/draft_YYYYMMDD.md로 저장
 - topics.md 업데이트:
@@ -32,7 +35,7 @@
   - 번호 제거: 소재1: → 소재:
   - 대기 중 소재 번호를 1번부터 오름차순으로 재정렬
 
-## Step 5: 승인 및 아카이브
+## Step 6: 승인 및 아카이브
 글 승인이야. 아래 작업 진행해줘:
 - drafts/draft_YYYYMMDD.md를 approved_content/YYYYMMDD_[주제].md로 이동
 - reference_content/YYYYMMDD_[주제].md로 복사 (스타일 분석용)
